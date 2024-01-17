@@ -1,2 +1,2 @@
-# paybox-booking-service-widget
+# paybox-booking-widget
 Booking service for SMEs Design
